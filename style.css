@@ -1,3 +1,6 @@
+@import url(https://unpkg.com/@catppuccin/palette@1.7.1/css/catppuccin.css);
+
+
 /* Extension Template and website reverse engineering effort done by Regina Bonifacio*/
 /* Cattpucin color scheme made by Julius Castillejo */
 /* CatPUPcin version 0.0.1 */
@@ -11,7 +14,7 @@ h1,
 h2,
 h3,
 h4 h6 {
-  color: #c6d0f5 !important;
+  color: var(--ctp-macchiato-text) !important;
 }
 
 h5,
@@ -19,12 +22,12 @@ h3.card-title,
 a.btn-link.mb-1.btnview,
 a.text-primary
  {
-  color: #c6d0f5 !important;
+  color: var(--ctp-macchiato-text) !important;
 }
 
 b,
 label {
-  color: #c6d0f5 !important;
+  color: var(--ctp-macchiato-text) !important;
 }
 
 input.btn.btn-primary.btn-flat.btn-block {
@@ -36,17 +39,22 @@ input.btn.btn-primary.btn-flat.btn-block {
 /* Home */
 
  div.content-wrapper {
-  background-color: #303446 !important;
+  background-color: var(--ctp-frappe-base) !important;
 }
-
+.card-theme.card-outline {
+  border-top: 0px solid ;
+}
 nav.main-header {
   background-color: #292c3c !important;
   border: 0px  !important;
-  color: #c6d0f5 !important;
+  color: var(--ctp-frappe-text) !important;
 }
 
 span.brand-text {
-  color: #c6d0f5 !important;
+  color: var(--ctp-frappe-text) !important;
+}
+div.text-xs {
+  color: var(--ctp-frappe-text) !important;
 }
 
 div.card-header {
@@ -75,7 +83,7 @@ div.info-box {
 }
 
 span.info-box-icon.bg-danger {
-  background-color: #ff1493 !important;
+  background-color: var(--ctp-frappe-blue) !important;
 }
 
 th,
@@ -123,5 +131,5 @@ div.dropdown-menu.dropdown-menu-md.dropdown-menu-right.show {
 }
 
 i.fas.fa-file-download {
-  color: #f9c9d0 !important;
+  color: var(--ctp-frappe-surface1) !important;
 }

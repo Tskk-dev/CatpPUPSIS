@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "CatPUPcin",
+  "name": "CatpPUPSIS",
   "version": "0.1.0",
   "description": "An extension that provides cattpucin based color themes For PUPSIS based on the PUPink extension ",
   "permissions": ["tabs"],
@@ -10,6 +10,7 @@
     "48": "icons/icon72.png",
     "128": "icons/icon144.png"
   },
+  
   "content_scripts": [
     {
       "js": ["content.js"],
@@ -23,7 +24,8 @@
         "https://sis6.pup.edu.ph/student/*",
         "https://sis7.pup.edu.ph/student/*",
         "https://sis8.pup.edu.ph/student/*"
-      ]
+      ],
+      "run_at": "document_start"
     }
   ],
   "action": {

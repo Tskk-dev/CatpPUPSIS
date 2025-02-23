@@ -7,7 +7,7 @@
     <img src="icons/icon128.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">PUPink</h1>
+  <h1 align="center">CatpPUPSIS</h1>
   <p align="center">
     Class Notification Extension
     <br />

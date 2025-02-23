@@ -26,25 +26,13 @@
 
 ## About The Project
 
-> PUPink is a Chrome extension flavor that makes your PUPSIS Portal pink and cokwit!
+> CatpPUPSIS is a port of the catppucin theme for A certain polytechnic university's Student Information System 
 
 ## Extension Snapshots
 
-### Snapshots
-![loginpage](https://github.com/user-attachments/assets/6344d368-dbe3-4304-9566-c2d37a9eb68e)
-![homepage](https://github.com/user-attachments/assets/8fd1ec35-c250-45a9-a208-30165016731c)
-![enrollmentpage](https://github.com/user-attachments/assets/9ed3012d-cd31-4ef5-a03b-eff9ee4099b6)
-![accountspage](https://github.com/user-attachments/assets/127c5f7d-ea7c-4f4d-880e-dd6ef1761607)
-![schedulepage](https://github.com/user-attachments/assets/2036b436-8de2-4b60-9db6-ec03bcd9cabf)
-![gradespage](https://github.com/user-attachments/assets/dbd543d3-03fa-4c89-9a12-0c9e3bf8b5f8)
-![formpage](https://github.com/user-attachments/assets/7deed349-0cc3-4988-a691-89867084210e)
-![hdfpage](https://github.com/user-attachments/assets/871ba350-27d0-450d-87fc-df8ec19bab43)
-![passwordpage](https://github.com/user-attachments/assets/c574ea82-bc15-4470-8903-04e730eae7db)
-![popup](https://github.com/user-attachments/assets/418ffcd2-a11c-4ef3-b4db-6786a06a646d)
-
 ## Installation
 
-To download and install the PUPink extension, follow the steps in this video tutorial:
+To download and install the CatpPUPSIS extension, follow the steps in this video tutorial:
 
 [![Watch the video](https://img.youtube.com/vi/vRuT3vQide8/0.jpg)](https://youtu.be/vRuT3vQide8?si=_QbUSr6CSXfrAafX)
 
@@ -61,17 +49,22 @@ Optional: Pin the extension for easy access. Enjoy!
 
 ## Privacy Assurance
 
-Your privacy is my top priority. PUPink is designed solely as a theme extension, and no personal data will be collected or stored. We do not copy, steal, or share any information from your browsing activities. You can use this extension with confidence, knowing that your data remains safe and secure.
+Your privacy is my top priority. CatpPUPSIS is designed solely as a theme extension, and no personal data will be collected or stored. We do not copy, steal, or share any information from your browsing activities. You can use this extension with confidence, knowing that your data remains safe and secure.
 
 ## License
 
 Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgments
-
+# Original Author
 I would like to express my gratitude to my girlfriend for teaching me how to create this extension and for her valuable suggestions that helped improve its UI. You can follow her at [krislette](https://github.com/krislette).
+
+# Fork Author
+I was bored one day and and this repository popped up on my facebook feed, a few hours later and I had a working port of the theme that i liked, special thanks to @feiryrej for doing
+most of the website reverse engineering. 
 
 ## Contact
 
 For any inquiries, please contact me at my [email](rejinimikasi06@gmail.com) or open an issue in the repository.
 
+For any inquiries regarding THIS fork specifically, please do not bug the original author. File an issue report within THIS repository. 

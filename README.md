@@ -6,13 +6,14 @@
   <a href="https://github.com/feiryrej/PUPink">
     <img src="icons/icon144.png" alt="Logo" width="144" height="144">
   </a>
-
+ 
   <h1 align="center">CatpPUPSIS</h1>
-  A weekend porting project based on the [PUPink](https://github.com/feiryrej/PUPink) Extension 
+
+   A weekend theme porting project based on the <a href = "https://github.com/feiryrej/PUPink">PUPink</a> extension.
 </div> 
 
 <!-- ABOUT THE PROJECT -->
-
+   
 ## About The Project
 > CatpPUPSIS is a port of the catppucin theme for A certain polytechnic university's Student Information System 
 

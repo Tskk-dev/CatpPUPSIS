@@ -1,5 +1,6 @@
-/* Made by Regina Bonifacio */
-/* PUPink Chrome Extension - Version 0.1.0 */
+/* Extension Template and website reverse engineering effort done by Regina Bonifacio*/
+/* Cattpucin color scheme made by Julius Castillejo */
+/* CatPUPcin version 0.0.1 */
 
 /* Student Login */
 div.col-md-4.card.frost {
@@ -10,19 +11,20 @@ h1,
 h2,
 h3,
 h4 h6 {
-  color: #ff69b4 !important;
+  color: #c6d0f5 !important;
 }
 
 h5,
 h3.card-title,
 a.btn-link.mb-1.btnview,
-a.text-primary {
-  color: #d21078 !important;
+a.text-primary
+ {
+  color: #c6d0f5 !important;
 }
 
 b,
 label {
-  color: #ff1493 !important;
+  color: #c6d0f5 !important;
 }
 
 input.btn.btn-primary.btn-flat.btn-block {
@@ -32,39 +34,44 @@ input.btn.btn-primary.btn-flat.btn-block {
 }
 
 /* Home */
+
+ div.content-wrapper {
+  background-color: #303446 !important;
+}
+
 nav.main-header {
-  background-color: #ffe6f2 !important;
-  border: 0.1px solid #ff69b4 !important;
-  color: #000000 !important;
+  background-color: #292c3c !important;
+  border: 0px  !important;
+  color: #c6d0f5 !important;
 }
 
 span.brand-text {
-  color: #ff1493 !important;
+  color: #c6d0f5 !important;
 }
 
 div.card-header {
-  background-color: #facae1 !important;
-  border: 0.1px solid #000000 !important;
+  background-color: #51576d !important;
+  border: 0px !important;
 }
 
 div.card-body,
 div.card-footer {
-  background-color: #ffe6f2 !important;
-  border: 0.1px solid #000000 !important;
+  background-color: #414559 !important;
+  border: 0px !important;
 }
 
 h3.card-title.text-danger.text-bold {
-  color: #000000 !important;
+  color: #c6d0f5 !important;
 }
 
 a.nav-link,
 a.text-bold {
-  color: #000000 !important;
+  color: #c6d0f5 !important;
 }
 
 div.info-box {
-  background-color: #ffb6c1 !important;
-  border: 1px solid #ff1493 !important;
+  background-color: #737994 !important;
+  border: 0px  !important;
 }
 
 span.info-box-icon.bg-danger {
@@ -73,7 +80,8 @@ span.info-box-icon.bg-danger {
 
 th,
 td {
-  border: 0.1px solid #000000 !important;
+  color: #c6d0f5 !important;
+  border: 1px #000000 !important;
 }
 
 footer {
@@ -107,7 +115,7 @@ label.form-check-label {
 i.fa.fa-user,
 i.fas,
 span.fas {
-  color: #d21078 !important;
+  color: #e4e3e3 !important;
 }
 
 div.dropdown-menu.dropdown-menu-md.dropdown-menu-right.show {

@@ -51,6 +51,6 @@ most of the website reverse engineering.
 
 ## Contact
 
-For any inquiries, please contact me at my [email](rejinimikasi06@gmail.com) or open an issue in the repository.
+For any inquiries regarding the original project, please contact @feiryrej at their [email](rejinimikasi06@gmail.com) or open an issue in their original repo.
 
 For any inquiries regarding THIS fork specifically, please do not bug the original author. File an issue report within THIS repository. 

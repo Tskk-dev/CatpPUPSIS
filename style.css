@@ -1,6 +1,5 @@
 @import url(https://unpkg.com/@catppuccin/palette@1.7.1/css/catppuccin.css);
 
-
 /* Extension Template and website reverse engineering effort done by Regina Bonifacio*/
 /* Cattpucin color scheme made by Julius Castillejo */
 /* CatPUPcin version 0.0.1 */
@@ -20,8 +19,7 @@ h4 h6 {
 h5,
 h3.card-title,
 a.btn-link.mb-1.btnview,
-a.text-primary
- {
+a.text-primary {
   color: var(--ctp-macchiato-text) !important;
 }
 
@@ -38,15 +36,18 @@ input.btn.btn-primary.btn-flat.btn-block {
 
 /* Home */
 
- div.content-wrapper {
+div.content-wrapper {
   background-color: var(--ctp-frappe-base) !important;
 }
+div.card{
+  border-radius: 24px;
+}
 .card-theme.card-outline {
-  border-top: 0px solid ;
+  border-top: 0px solid;
 }
 nav.main-header {
   background-color: #292c3c !important;
-  border: 0px  !important;
+  border: 0px !important;
   color: var(--ctp-frappe-text) !important;
 }
 
@@ -79,7 +80,7 @@ a.text-bold {
 
 div.info-box {
   background-color: #737994 !important;
-  border: 0px  !important;
+  border: 0px !important;
 }
 
 span.info-box-icon.bg-danger {
@@ -93,7 +94,8 @@ td {
 }
 
 footer {
-  background-color: #f5f5f5 !important;
+  background-color: #292c3c  !important;
+  border-top-color: #292c3c !important;
 }
 
 /* Enrollment */

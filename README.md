@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/feiryrej/PUPink">
-    <img src="icons/icon144.png" alt="Logo" width="80" height="80">
+    <img src="icons/icon144.png" alt="Logo" width="144" height="144">
   </a>
 
   <h1 align="center">CatpPUPSIS</h1>

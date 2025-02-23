@@ -8,18 +8,6 @@
   </a>
 
   <h1 align="center">CatpPUPSIS</h1>
-  <p align="center">
-    Class Notification Extension
-    <br />
-    <a href="#installation"><strong>Explore the extension »</strong></a>
-    <br />
-    <br />
-    <a href="#extension-snapshots">View Snapshots</a>
-    ·
-    <a href="https://github.com/feiryrej/PUPink/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/feiryrej/PUPink/pulls">Request Feature</a>
-  </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->

@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "PUPink",
+  "name": "CatPUPcin",
   "version": "0.1.0",
-  "description": "Make your PUPSIS portal coquette!",
+  "description": "An extension that provides cattpucin based color themes For PUPSIS based on the PUPink extension ",
   "permissions": ["tabs"],
   "icons": {
     "16": "icons/icon16.png",

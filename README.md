@@ -8,8 +8,7 @@
   </a>
  
   <h1 align="center">CatpPUPSIS</h1>
-
-   A weekend theme porting project based on the <a href = "https://github.com/feiryrej/PUPink">PUPink</a> extension.
+  <p> A weekend theme porting project based on the <a href = "https://github.com/feiryrej/PUPink">PUPink</a> extension. </p>
 </div> 
 
 <!-- ABOUT THE PROJECT -->

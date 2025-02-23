@@ -8,8 +8,8 @@
   </a>
 
   <h1 align="center">CatpPUPSIS</h1>
-  A weekend porting project
-</div>
+  A weekend porting project based on the [PUPink](https://github.com/feiryrej/PUPink) Extension 
+</div> 
 
 <!-- ABOUT THE PROJECT -->
 

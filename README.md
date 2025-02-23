@@ -8,6 +8,7 @@
   </a>
 
   <h1 align="center">CatpPUPSIS</h1>
+  <p> A weekend porting project</p>
 </div>
 
 <!-- ABOUT THE PROJECT -->

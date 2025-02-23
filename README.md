@@ -8,16 +8,13 @@
   </a>
 
   <h1 align="center">CatpPUPSIS</h1>
-  <p> A weekend porting project</p>
+  A weekend porting project
 </div>
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
 > CatpPUPSIS is a port of the catppucin theme for A certain polytechnic university's Student Information System 
-
-## Extension Snapshots
 
 ## Installation
 

@@ -56,10 +56,10 @@ Your privacy is my top priority. CatpPUPSIS is designed solely as a theme extens
 Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgments
-# Original Author
+### Original Author
 I would like to express my gratitude to my girlfriend for teaching me how to create this extension and for her valuable suggestions that helped improve its UI. You can follow her at [krislette](https://github.com/krislette).
 
-# Fork Author
+### Fork Author
 I was bored one day and and this repository popped up on my facebook feed, a few hours later and I had a working port of the theme that i liked, special thanks to @feiryrej for doing
 most of the website reverse engineering. 
 
